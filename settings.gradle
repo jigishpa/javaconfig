@@ -1,6 +1,12 @@
 rootProject.name = 'javaconfig'
 
-include 'bare-webapp'
+include 'javaapp1-config'
 
-include 'empty-webapp'
+include 'javaapp1-xml'
+
+include 'webapp1-config'
+
+include 'webapp1-config2'
+
+include 'webapp1-xml'
 
