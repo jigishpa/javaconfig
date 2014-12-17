@@ -5,7 +5,7 @@ package com.senyume.javaconfig.service;
  */
 public class HelloService {
 
-    public String sayHello(){
-        return "Hello World!";
-    }
+	public String sayHello(){
+		return "Hello World!";
+	}
 }

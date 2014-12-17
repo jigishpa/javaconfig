@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/bare-webapp" />
+            <option value="$PROJECT_DIR$/empty-webapp" />
           </set>
         </option>
       </GradleProjectSettings>
