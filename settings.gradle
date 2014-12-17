@@ -1,0 +1,6 @@
+rootProject.name = 'javaconfig'
+
+include 'bare-webapp'
+
+include 'empty-webapp'
+
